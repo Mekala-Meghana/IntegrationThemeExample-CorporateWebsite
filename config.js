@@ -1,8 +1,8 @@
 // Update these values to match those of your Server URL & DriveWorks Group Alias
 
 const config = {
-    serverUrl: "",
-    groupAlias: "",
+    serverUrl: "www.cmtruckslive.com",
+    groupAlias: "CmTrucksLive",
     // (Optional) Set Specification ping interval - in seconds
     // A Specification will timeout after a configured period of inactivity (see DriveWorksConfigUser.xml).
     // This function prevents a Specification timing out as long as the page is in view.
